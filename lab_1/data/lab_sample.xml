@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<medications>
+    <medication id="001">
+        <name>Metformin</name>
+        <dose>500mg</dose>
+        <frequency>Twice daily</frequency>
+    </medication>
+    <medication id="002">
+        <name>Lisinopril</name>
+        <dose>20mg</dose>
+        <frequency>Once daily</frequency>
+    </medication>
+</medications>
